@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @daillet
-- 👀 I’m interested in data science !
+- 👋 Hi, I’m Thomas !
+- 👀 I’m interested in sport, news and data science !
 - 📫 You can reach me at tom.daille@gmail.com
 
 <!---
